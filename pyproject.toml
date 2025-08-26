@@ -2,7 +2,7 @@
 name = "m16-12-02"
 version = "0.1.0"
 description = ""
-authors = ["Yuriy Kuchma <krabatua@gmail.com>"]
+authors = ["Dmitrii Barasii <dmitrii.barasii@ukr.net>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
